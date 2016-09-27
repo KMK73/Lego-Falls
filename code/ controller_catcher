@@ -1,0 +1,12 @@
+ Catcher controller
+ left joystick right/left	 left/right movement joystick	3	SLIDER	x	0	1.0	0.0
+ left joystick up/down	 up/down left joystick	3	SLIDER	y	0	1.0	0.0
+ right joystick right/left	 right joystick right/left	3	SLIDER	rx	0	1.0	0.0
+ right joystick up/down	 right joystick up/down	3	SLIDER	ry	0	1.0	0.0
+ up pad	 up pad	1	BUTTON	11	0	0.0	0.0
+ down pad	 down pad	1	BUTTON	12	0	0.0	0.0
+ left pad	 left pad	1	BUTTON	13	0	0.0	0.0
+ right pad	 right pad	1	BUTTON	14	0	0.0	0.0
+ a	 a button	1	BUTTON	0	0	0.0	0.0
+ right bumper	 right bumper	1	BUTTON	5	0	0.0	0.0
+ left bumper	 left bumper	1	BUTTON	4	0	0.0	0.0
